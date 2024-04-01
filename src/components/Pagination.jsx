@@ -1,8 +1,12 @@
 import React from 'react'
-
+import NavBar from './Pagination';
 const Pagination = () => {
   return (
-    <div>Pagination</div>
+    <div>
+      
+
+
+</div>
   )
 }
 
